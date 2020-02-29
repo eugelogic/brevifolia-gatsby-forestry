@@ -1,11 +1,15 @@
 ---
 date: 2019-07-22T22:44:38.000+00:00
-title: Song of Myself
+title: Song to My Father
 author: Ralph Waldo Emerson
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
 ---
 I have heard what the talkers were talking, the talk of the beginning and the end, this is very exciting.
+
+I just changed the title to Horece's song, [check it out](https://www.discogs.com/The-Horace-Silver-Quintet-Song-For-My-Father-Cantiga-Para-Meu-Pai/master/155008).
+
+![](/content/images/jon-tyson-zrwJLeCmNnQ-unsplash.jpg)
 
 * Hold on a sec, is this a preview?
 
